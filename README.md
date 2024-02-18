@@ -1,6 +1,6 @@
 ## 💫 About Me:  
 👋 Hey, I'm Divyesh <br>
-👨🏻‍💻 Aspiring Data Scientist
+👨🏻‍💻 An Aspiring Data Scientist
 
 
 ## 🌐 Socials:
